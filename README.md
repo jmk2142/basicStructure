@@ -1,2 +1,2 @@
-# basicStructure
- Demonstration of basic project structure
+# My Project
+this is a project that shows basic structure.
